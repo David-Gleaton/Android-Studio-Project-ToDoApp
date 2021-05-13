@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gleaton_todolist</string>
+    <string name="Add">ADD</string>
+    <string name="Delete">DELETE</string>
+</resources>
